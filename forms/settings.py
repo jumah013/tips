@@ -35,7 +35,7 @@ SECRET_KEY = 'u)p$$(0-$dmz&nxo*t7m$)4yo1*wg8^r7o#v0$*kki@h^+c)bz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['aleki-testing.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['suretipsj.herokuapp.com','127.0.0.1']
 
 
 # Application definition
